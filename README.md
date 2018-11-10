@@ -3,7 +3,7 @@
 
 ## Merry Xmas
 
-<img src="http://o7bkcj7d7.bkt.clouddn.com/markdown/1514207239512.png" width="600"/>
+<img src="https://raw.githubusercontent.com/FaiChou/faichou.github.io/master/img/qiniu/markdown/1514207239512.png" width="600"/>
 
 
 
@@ -23,11 +23,11 @@
 
 
 
-<img src="http://o7bkcj7d7.bkt.clouddn.com/markdown/1514210537087.png" width="600"/>
+<img src="https://raw.githubusercontent.com/FaiChou/faichou.github.io/master/img/qiniu/markdown/1514210537087.png" width="600"/>
 
 `点击后效果`
 
-<img src="http://o7bkcj7d7.bkt.clouddn.com/markdown/1514210570636.png" width="600"/>
+<img src="https://raw.githubusercontent.com/FaiChou/faichou.github.io/master/img/qiniu/markdown/1514210570636.png" width="600"/>
 
 
     
@@ -138,7 +138,7 @@ https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202
 
 [这一篇](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)文章, 大佬不光将modal建立在`root`之外, 更是建立在整个窗体之外.
 
-<img src="http://o7bkcj7d7.bkt.clouddn.com/markdown/1514211751371.png" width="600"/>
+<img src="https://raw.githubusercontent.com/FaiChou/faichou.github.io/master/img/qiniu/markdown/1514211751371.png" width="600"/>
 
 
 可以在[codepen](https://codepen.io/davidgilbertson/pen/xPVMqp)中体验下.
